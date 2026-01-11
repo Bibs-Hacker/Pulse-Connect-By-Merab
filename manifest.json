@@ -1,0 +1,23 @@
+{
+  "name": "Twinnie Chat",
+  "short_name": "Twinnie",
+  "description": "Simple real-time chat powered by Firebase",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "https://files.catbox.moe/74tj86.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://files.catbox.moe/74tj86.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ]
+}
